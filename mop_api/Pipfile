@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask-restplus = "*"
+flask-marshmallow = "*"
+Flask-SQLAlchemy = "*"
+marshmallow-sqlalchemy = "*"
+Werkzeug = "==0.16.1"
+Flask = "==1.1.2"
+soappy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

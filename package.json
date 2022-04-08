@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/forms": "^13.2.6",
+    "ts-form-validation": "^2.2.0"
+  }
+}
